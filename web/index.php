@@ -1,1 +1,1 @@
-ok bye
+dene
